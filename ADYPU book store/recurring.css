@@ -1,0 +1,14 @@
+.main{
+    display: grid;
+    grid-template-rows: 52vw 45vw 25vw 30vw;
+}
+.sec{
+    /* border: 1px solid #000; */
+    overflow: hidden;
+}
+.red button{
+    transition: 0.5s;
+}
+.red button:hover{
+    background-color: #a90000;
+}
